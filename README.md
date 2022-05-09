@@ -8,6 +8,8 @@ I started out pasting og vase and spent 3 days making a shit menu. I didnt know 
 
 I think to fix the problem of spoiled pasters I need to send them back to where I started. 
 
+I have done you guys a favor and added flushfile driver to the source so u can last a extra 5min
+
 This source will be the OG Oracle, it is your job to improve it. My firstsuggestion is to make a new menu design and fix the mouse aim.... (hint hint "void aimbot(int x, int y)" "ClosestPawn")
 
 If you are a devoloper and want to support my plan, you can stop releasing updated sources to github.
