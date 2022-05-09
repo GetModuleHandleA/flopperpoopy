@@ -2,7 +2,7 @@
 
 I will be releasing a external source that I will be keep updated, but theres a catch.....
 
-Im tired of seeing pasters buy ud drivers for $20 flex it and then beg everyone for a ud overlay. So many of these kids have gone through nothing and recieved everything. 
+Im tired of seeing pasters buy ud drivers for $20 flex it and then beg everyone for a ud overlay after they get banned in 5min. So many of these kids have gone through nothing and recieved everything. 
 
 I started out pasting og vase and spent 3 days making a shit menu. I didnt know shit and I had to teach myself x and y coordinatates and rbg. It took me longer than you could imagine to get to where I am today. The grind was frustrating but very rewarding seeing my paste evolve. 
 
