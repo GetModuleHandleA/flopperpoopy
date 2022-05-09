@@ -1,0 +1,1 @@
+drag and drop GodFatherDriver.sys into kdmapper to load the driver
