@@ -143,7 +143,7 @@ void menu()
 	if (Menu)
 	{
 		DrawBox(5, 10, 150, 120, 0.0f, 0.f, 0.f, 0.f, 100, true);
-        DrawString(_xor_("Floppa Private").c_str(), 17, 10, 8, 255.f, 255.f, 255.f, 255.f);
+        DrawString(_xor_("ScreamWare - Public").c_str(), 17, 10, 8, 255.f, 255.f, 255.f, 255.f);
 
 		if (EnemyESP)
 			DrawString(_xor_("ON").c_str(), 13, 10 + 110, 10 + 20, 0.f, 255.f, 0.f, 255.f);
